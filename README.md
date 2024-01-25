@@ -31,5 +31,5 @@ the functionality of parcel delivery-related applications.
 
 ## License
 
-* Copyright &copy;2011-2023 by DevelArt, s.r.o.
+* Copyright &copy;2011-2024by DevelArt, s.r.o.
 * This is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
